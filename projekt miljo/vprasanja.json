@@ -1,0 +1,153 @@
+{
+	"1": { 
+		"vprasanje": "Koliko stranic ima trikotnik?",
+		"odgovori": ["1", "2", "3", "26"],
+		"pravilen": "C"
+	},
+	"2": { 
+		"vprasanje": "Kakšen je odvod v globalnem ekstremu?",
+		"odgovori": ["1", "0 ali pa ne obstaja", "0", "Ne obstaja"],
+		"pravilen": "B"
+	},
+	"3": { 
+		"vprasanje": "V koliko točkah se sekata premica in ravnina v prostoru, če je razdalja med njima 0?",
+		"odgovori": ["Natanko eni", "0 točkah", "Najmanj dveh", "Vsaj eni"],
+		"pravilen": "D"
+	},
+	"4": { 
+		"vprasanje": "Če za neničelno kvadratno matriko velja A^2=A, je lastna vrednost matrike:",
+		"odgovori": ["1", "0", "Lambda", "Ne moremo določiti"],
+		"pravilen": "A"
+	},
+	"5": { 
+		"vprasanje": "Koliko elementov manjših od 0 ima množica naravnih števil?",
+		"odgovori": ["1", "0", "Neskoncno", "-1"],
+		"pravilen": "B"
+	},
+	"6": { 
+		"vprasanje": "Kdo snema predavanja na FMF?",
+		"odgovori": ["Strle", "Pretnar", "Rdeča Kapica", "Vsi"],
+		"pravilen": "B"
+	},
+	"7": { 
+		"vprasanje": "Katere lastne vrednosti matrike so ničle minimalnega polinoma?",
+		"odgovori": ["Pozitivne", "Negativne", "Nenegativne", "Vse"],
+		"pravilen": "D"
+	},
+	"8": { 
+		"vprasanje": "Kaj je hermitiranje",
+		"odgovori": ["Zdravstveno stanje", "Transponiranje in konjugiranje", "Množenje z imaginarnim številom", "Invertiranje matrike z negativno determinanto"],
+		"pravilen": "B"
+	},
+	"9": { 
+		"vprasanje": "Koliko znaša diskrimninatna, če se kvadratna funkcija dotika abscisne osi le v eni točki",
+		"odgovori": ["0", "-1", "1", "10"],
+		"pravilen": "A"
+	},
+	"10": { 
+		"vprasanje": "Koliko stopinj je vsota notranjih kotov 12 kotnika",
+		"odgovori": ["180", "360", "2160", "720"],
+		"pravilen": "C"
+	},
+	"11": { 
+		"vprasanje": "Značilnost vsake polgrupe je:",
+		"odgovori": ["Asociativnost", "Ima enoto", "Komutativnost", "Distributivnost"],
+		"pravilen": "D"
+	},
+	"12": { 
+		"vprasanje": "Kdaj je matrika A obrnljiva?",
+		"odgovori": ["Ko det(A) = 0", "Ko det(A) != 0", "Je zgornjetrikotna", "Je neničelna"],
+		"pravilen": "B"
+	},
+	"13": { 
+		"vprasanje": "Čemu je enaka determinanta matrike?",
+		"odgovori": ["Prvemu elementu matrike", "0", "Produktu lastnih vrednosti", "Dnevnemu vnosu kalorij"],
+		"pravilen": "C"
+	},
+	"14": { 
+		"vprasanje": "Geometrijski pomen pojma integrala je:",
+		"odgovori": ["Tangens naklonskega kota tangente", "Ploščina lika pod ploskvijo", "Volumen paralelepipeda", "Nič od tega"],
+		"pravilen": "D"
+	},
+	"15": { 
+		"vprasanje": "Pojem določenega integrala je opredeljen kot limita:",
+		"odgovori": ["Newtonovega ulomka", "Vsote ploščin", "Zaporedja števil", "Nič od tega"],
+		"pravilen": "B"
+	},
+	"16": { 
+		"vprasanje": "S pomočjo določenega integrala je možno izračunati:",
+		"odgovori": ["Ploščino odseka krivulje", "Inverz matrike", "Ekstrem funkcije", "Nič od tega"],
+		"pravilen": "A"
+	},
+	"17": { 
+		"vprasanje": "Ukrivljenost funkcije ene spremenljivke določimo s pomočjo:",
+		"odgovori": ["Prvega odvoda", "Integrala", "Drugega odvoda", "Funkcijske vrste"],
+		"pravilen": "C"
+	},
+	"18": { 
+		"vprasanje": "V lokalnem minimumu odvedljive funkcije dveh spremenljivk f(x,y) = odvod df/dy enak:",
+		"odgovori": ["1", "0", "-1", "Nič od tega"],
+		"pravilen": "B"
+	},
+	"19": { 
+		"vprasanje": "Odvod kompozituma funkcij f in g je enak;",
+		"odgovori": ["f'g-fg'", "f'g+fg'", "f''g+f'g''", "Nič od tega"],
+		"pravilen": "D"
+	},
+	"20": { 
+		"vprasanje": "Kaj lahko z gotovostjo rečemo za produkt dveh nenegativnih matrik?",
+		"odgovori": ["Je nenegativna", "Je neničelna", "Je kvadratna", "Je reverzibilna"],
+		"pravilen": "A"
+	},
+	"21": { 
+		"vprasanje": "Ali sta matriki z enako Jordanovo formo enaki?",
+		"odgovori": ["Da", "Ne", "Da, a le pri 2x2 matrikah", "Da, če je matrika obrnljiva"],
+		"pravilen": "B"
+	},
+	"22": { 
+		"vprasanje": "Če so B,C,...,X lastne vrednosti matrike A, so lastne vrednosti matrike sinA:",
+		"odgovori": ["sinB,sinC,...,sinX", "0", "1", "Ni mogoče določiti"],
+		"pravilen": "A"
+	},
+	"23": { 
+		"vprasanje": "Čemu je enaka ploščina paralelograma, ki ga razpenjata vektorja a in b?",
+		"odgovori": ["Skalarnemu produktu a in b ", "Mešanemu produktu a in b", "Vektorskemu produktu a in b", "Razliki vektorjev a in b "],
+		"pravilen": "C"
+	},
+	"24": { 
+		"vprasanje": "Baza prostora je ortonormirana, če:",
+		"odgovori": ["So vektorji paroma pravokotni", "So vektorji dolgi 1", "So vektorji linearno neodvisni", "Vse od naštetega"],
+		"pravilen": "D"
+	},
+	"25": { 
+		"vprasanje": "Presečišče treh nevzporednih ravnin je",
+		"odgovori": ["premica", "točka", "ravnina", "premica ali točka"],
+		"pravilen": "D"
+	},
+	"26": { 
+		"vprasanje": "Kolikšen del volumna valja predstavlja pravilni stožec z enako osnovno ploskvijo?",
+		"odgovori": ["Tretjino", "polovico", "75%", "Ni možno določiti"],
+		"pravilen": "A"
+	},
+	"27": { 
+		"vprasanje": "Značilnost Hamiltonovih poti je:",
+		"odgovori": ["imajo 5 povezav", "Čez vsako točko gredo natanko enkrat", "So usmerjene", "So enakovredne Eulerjevim grafom"],
+		"pravilen": "B"
+	},
+	"28": { 
+		"vprasanje": "Izomorfizem je",
+		"odgovori": ["Bijektiven homomorfizem", "Surjektiven homomorfizem", "Injektiven homomorfizem", "Avtomorfizem"],
+		"pravilen": "A"
+	},
+	"29": { 
+		"vprasanje": "Operacija je v abelovi grupi:",
+		"odgovori": ["Asociativna", "Komutativna", "A in B", "Niti A, niti B"],
+		"pravilen": "C"
+	},
+	"30": { 
+		"vprasanje": "Izrek, ki se uporablja pri linearnih funkcionalih je",
+		"odgovori": ["Schurov", "Lagrangov", "Rollov", "Eulerjev"],
+		"pravilen": "A"
+	}
+
+}
